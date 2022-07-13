@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GmailLoginlibrary</string>
+    <string name="client_id">add your google client id</string>
+</resources>
